@@ -1,0 +1,183 @@
+* {
+  padding: 0;
+  margin: 0;
+  flex-shrink: 0;
+}
+form {
+  width: 778px;
+  height: 1271px;
+  padding-left: 220px;
+}
+label {
+  padding: 28px 0px 0px 0px;
+}
+label::after {
+  content: "*";
+  color: red;
+}
+p {
+  padding: 16px 0px 32px 0px;
+}
+.fon {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  display: inline;
+  padding: 0px 0px 0px 0px;
+}
+.install {
+  color: #5361e4;
+  display: flex;
+  padding: 0px 0px 0px 0px;
+}
+input {
+  width: 702px;
+  height: 56px;
+  border-radius: 16px;
+  gap: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.205);
+  padding-left: 10px;
+}
+.insta {
+  padding: 0px 0px 0px 0px;
+}
+h2 {
+  padding-top: 92px;
+}
+p {
+  color: rgba(0, 0, 0, 0.466);
+}
+.form-group1,
+.form-group__city {
+  display: inline-flex;
+  width: 329px;
+  height: 82px;
+}
+.from-label {
+  display: block;
+}
+.linklar,
+.link {
+  color: black;
+}
+.link {
+  background-color: #fff;
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  margin-left: 10px;
+  width: 60px;
+  height: 60px;
+  margin: 92px 29px 93px 13px;
+  padding: 0px 0px 2px 17px;
+  cursor: pointer;
+}
+.linklar {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.kiik {
+  width: 30px;
+  height: 10px;
+  margin: 52px 1px -70px 0px;
+}
+.kik {
+  margin: 0px -334px 0px 0px;
+}
+.kik {
+  padding: 0px 6px 0px 0px;
+}
+.link:hover {
+  background-color: rgba(0, 102, 255, 0.247);
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  margin-left: 10px;
+  width: 60px;
+  height: 60px;
+  margin: 92px 29px 93px 13px;
+  padding: 0px 0px 2px 17px;
+}
+.izzoh {
+  margin: 0px 30px 44px 0px;
+  padding: 1px 1px 70px 14px;
+  width: 702px;
+  height: 148px;
+}
+.izoh {
+  padding-top: 20px;
+}
+.orqaga {
+  margin-right: 450px;
+}
+.orqaga {
+  background-color: #f8f8f8;
+  color: rgba(0, 0, 0, 0.438);
+  border-radius: 10px;
+  border: none;
+  height: 46px;
+  width: 113px;
+  font-size: 15px;
+}
+.orqaga:hover {
+  background-color: #afadad;
+  color: #fff;
+  border-radius: 10px;
+  border: none;
+  height: 46px;
+  width: 113px;
+  font-size: 15px;
+}
+.jonatish {
+  margin-right: 80px;
+  color: aliceblue;
+  background-color: #5361e4;
+  border-radius: 10px;
+  border: none;
+  height: 46px;
+  width: 113px;
+  font-size: 15px;
+}
+.jonatish:hover {
+  margin-right: 80px;
+  color: #5361e4;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: none;
+  height: 46px;
+  width: 113px;
+  font-size: 15px;
+}
+.errors {
+  color: red;
+  background-color: red;
+}
+.globus {
+  width: 35px;
+  height: 35px;
+}
+.Davlatlar {
+  display: inline;
+  padding-left: 18px;
+  padding-right: 300px;
+  font-size: 18px;
+}
+.Shahr {
+  display: inline-block;
+  font-size: 18px;
+}
+.Shahr::after {
+  content: "*";
+  color: red;
+}
+.Davlatlar::after {
+  content: "*";
+  color: red;
+}
+.form-group__city:nth-child(2) {
+  margin-right: 20px;
+}
+.flex {
+  display: flex;
+  gap: 20px;
+}

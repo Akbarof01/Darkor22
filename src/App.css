@@ -1,0 +1,97 @@
+body{
+  width: 100vh;
+  height: 100vh;
+
+}
+.App{
+  width: 1440px;
+  height: 80px;
+  background-color: rgb(36, 36, 255);
+  color: aliceblue;
+  display: flex;
+
+}
+ul,
+li,
+a{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+  padding-top: 15px;
+  font-size: 22px;
+  line-height: 22.77px;
+  color: aliceblue;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0px 0px 0px 25px;
+  
+  
+}
+.ull,
+.lii,
+a:hover{
+  color: #a7b0ff;
+}
+span{
+  font-size: 12px;
+  display: block;
+  padding-top: 18px;
+}
+h1{
+  padding-left: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 42px;
+}
+.boshlash{
+  margin-right: 80px;
+  color: 
+  #5361E4;
+  background-color: aliceblue;
+  border-radius: 10px;
+  border: none;
+  height: 
+  46px;
+  width: 
+  113px;
+  font-size: 15px;
+}
+.boshlash:hover{
+  margin-right: 80px;
+  color: 
+  aliceblue;
+  background-color: #5361E4;
+  border-radius: 10px;
+  border: none;
+  height: 
+  46px;
+  width: 
+  113px;
+  font-size: 15px;
+}
+a{
+  border: none;
+}
+h3{
+  padding-left: 82px;
+  color: aliceblue;
+}
+img{
+  width: 30px;
+  height: 100px;
+  padding-right: 20px;
+}
+.icon{
+  width: 115px;
+  height: 50px;
+  padding-left: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 42px;
+}
